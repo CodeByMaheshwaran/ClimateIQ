@@ -5,4 +5,4 @@
 + Implemented a 6-day weather forecast feature that provides users with an overview of upcoming weather trends.
 + Designed an intuitive user interface to enhance user experience and make weather data easily accessible.
 
-**Explore the Full Project**: [Visit the Live Demo](climate-iq.web.app)
+**Explore the Full Project**: [Visit the Live Demo](https://climate-iq.web.app/)
